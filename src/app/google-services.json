@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440531684625",
+    "project_id": "sched-8f949",
+    "storage_bucket": "sched-8f949.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440531684625:android:c3641554351909119ad0b0",
+        "android_client_info": {
+          "package_name": "com.vini.sched"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe4Z8Uss6IkqHkK6mGsPR2brt6oOq37Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

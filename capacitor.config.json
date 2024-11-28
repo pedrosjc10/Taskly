@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "vini-sched",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
